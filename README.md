@@ -47,7 +47,10 @@ Ein junges Mädchen spielt mit einem Hund.
 
 # **👤 Author** #
 
-** Manan Dudeja **
-** B.Tech CSE — VIT Chennai **
+**Manan Dudeja**
+
+B.Tech CSE — VIT Chennai
+
+
 
 If you like this project, please ⭐ the repo! 🌟
